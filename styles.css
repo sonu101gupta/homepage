@@ -686,3 +686,15 @@
 	left:421px;
 	top:225px;
 }
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+	html{
+		font-size:55%;
+}
+@media only screen and (max-width: 998px) {
+  body {
+    font-size:55%;
+  }
+}
